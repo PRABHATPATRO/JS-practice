@@ -36,6 +36,7 @@ let arr = [1,2,3,4,5];
 //     console.log(num);
 //  });
 
+
 //  let arr3 = arr2.map(sum => sum * 3);
 //  arr3.forEach(num => console.log(num));
 //  let total = arr3.reduce((sum, num) => sum + num, 0);
@@ -109,7 +110,12 @@ let arr = [1,2,3,4,5];
 // console.log(per.personDetails());
 
 
-function greet(name: string): string {
-    return `hello ${name}` ;
-}
-console.log(greet("prabhat"))
+// function greet(name: string): string {
+//     return `hello ${name}` ;
+// }
+// console.log(greet("prabhat"))
+
+// let response: any = '42';
+
+
+
